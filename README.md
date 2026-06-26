@@ -15,7 +15,6 @@
 
 *   **💻 Desarrollo de Software:** Creación de aplicaciones nativas en **Java** (con experiencia en lógica algorítmica, POO y graficación de funciones matemáticas) y scripts dinámicos en **Python**.
 *   **🌐 Infraestructura y Redes:** Configuración de servidores, gestión de copias de seguridad y administración de redes corporativas bajo estándares de seguridad.
-*   **🛡️ Ciberseguridad:** Planificación e implementación de capacitaciones corporativas enfocadas en la prevención de Phishing y la seguridad de URLs.
 *   **🛠️ Soluciones Tecnológicas:** Optimización de plataformas de comunicación interna seguras y mantenimiento avanzado de hardware/software.
 
 ---
@@ -37,20 +36,6 @@ A continuación se muestran las tecnologías que utilizo en mis proyectos diario
 ### Plataformas de Comunicación Corporativa
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
----
-
-## 📈 Proyectos Destacados
-
-*   📈 **Java Math Grapher:** Aplicación nativa en Java diseñada para graficar funciones matemáticas y sus derivadas mediante algoritmos de diferencias finitas.
-*   🛡️ **Phishing Awareness Campaign:** Desarrollo de material técnico y convocatorias para capacitación en ciberseguridad dentro del entorno empresarial.
-
----
-
-## 🎸 Un poco más sobre mí...
-Fuera de las líneas de código y los servidores, me apasiona la música. Actualmente dedico tiempo a perfeccionar la **guitarra** y a expandir mis habilidades explorando el **ukulele** 🎸🎶.
-
----
 
 <!-- Barra de colores inferior animada -->
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
