@@ -1,11 +1,7 @@
-# ¡Hola, soy Ángel Sinay! 👋
+# ¡Hola, soy Angel
+! 👋
 
 <!-- Banner de bienvenida con colores dinámicos -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=%C3%81ngel%20Sinay&fontSize=50&animation=fadeIn&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=%C3%81ngel%20Sinay&fontSize=50&animation=fadeIn&theme=default">
-  <img alt="Ángel Sinay Banner" src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=%C3%81ngel%20Sinay&fontSize=50&animation=fadeIn">
-</picture>
 
 ### 🚀 Estudiante de Ingeniería en Sistemas | Desarrollador Java & Python | Soporte Técnico y Ciberseguridad
 
